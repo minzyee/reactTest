@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/reactTest/static/js/main.ebfc312a.js",
+    "index.html": "/reactTest/index.html",
+    "main.ebfc312a.js.map": "/reactTest/static/js/main.ebfc312a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ebfc312a.js"
+  ]
+}
